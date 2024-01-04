@@ -1,7 +1,7 @@
 # Project Title: CUSTOM CNN Implementation 
 
 ## Description
-ustom CNN Implementation and EMNIST Classification Task.  
+Custom CNN Implementation and EMNIST Classification Task.  
 
 ## Dependencies
 - Python
